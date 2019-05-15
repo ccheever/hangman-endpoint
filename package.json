@@ -1,0 +1,17 @@
+{
+  "name": "hangman-endpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "repository": "https://github.com/ccheever/hangman-endpoint.git",
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cross-fetch": "^3.0.2",
+    "google-trends-api": "^4.9.0",
+    "micro": "^9.3.4",
+    "project-repl": "^1.5.0"
+  }
+}
